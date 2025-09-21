@@ -77,6 +77,14 @@ The following DAX measures were created to support KPIs and visualizations in th
 - **Power Query for ETL**  
 
 ---
+---
+
+🔗 **Additional References**
+
+- Mentor: [Divakar Kushwaha (LinkedIn)](https://www.linkedin.com/in/divakar-kushwaha/)  
+- Learning Platform: [Web Convoy Academy](https://webconvoyacademy.in/)
+
+---
 
 ## 📷 Dashboard Preview  
 
